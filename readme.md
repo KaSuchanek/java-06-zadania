@@ -4,15 +4,17 @@ Tworzenie nowego projektu
 
 Tworzenie pliku `readme.md`
 
-Porządkowanie pliku `.gitignore` (`.idea/`, `out/`)
+Konfiguracja `.gitignore` (`.idea/`, `out/`)
 
-Tworzenie własnego repozytorium (`github.com`)
+Praca z GitHub, tworzenie własnego repozytorium (`github.com`)
 
-Pirewszy `commit`
+Pierwszy `commit`
 
-Prządkowanie struktury projketu `packages`, commit zmian, wysyłanie zmian na serwer
+Prządkowanie struktury projketu `packages`, `commit` zmian, wysyłanie zmian na serwer
 
-Tworzenie nowych gałęzi, wysyłanie prośby `code rewiev`, lączenie kodu
+Zarządzanie gałęziami (`branches`), wysyłanie prośby `pull request`, lączenie kodu
+
+Prawidłowe rozłączanie konta GitHub z IntelliJ po zakończeniu pracy.
 
 ## Struktura projektu
 
@@ -31,5 +33,5 @@ Słowo `this` w Javie jest referencją (wskaźnikiem) do bieżącego obiektu,
 w którym aktualnie znajduje się program. Używając `this`, informujemy, że dana metoda lub pole należy do klasy.
 Ponadto, gdy parametr konstruktora nazywa się tak samo jak pole klasy, poprzez 'this' rozwiązujemy
 konflik nazw.
-- `src/sklepNowy` - zadanie 3 na nowo/
+- `src/sklepNowy` - zadanie 3 na nowo.
 - `src/car` - zadanie 4.
