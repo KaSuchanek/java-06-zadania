@@ -1,9 +1,9 @@
 package zadania;
 /*Utwórz klasę Robot, a w niej: java
 a) metodę statyczną wyswietlSystem(): która wypisuje: "System Robo v1.0"
-b) metodę niestatyczną przywitajSie(): która wypisuje: "Cześć, jestem Twoim robotem!".
+b) metodę niestatyczną przywitajSie(String imie): która wypisuje: "Cześć, jestem [imie]".
 c) metodę niestatyczną idzDo(String miejsce): która wypisuje: "Idę do: [miejsce]"
-W metodzie main wywołaj : wyswietlSystem(), przywitajSie(), idzDo(String miejsce)*/
+W metodzie main wywołaj : wyswietlSystem(), przywitajSie(), idzDo()*/
 
 public class Robot {
     public static void main(String[] args) {
