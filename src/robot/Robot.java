@@ -1,4 +1,4 @@
-package zadania;
+package robot;
 /*Utwórz klasę Robot, a w niej: java
 a) metodę statyczną wyswietlSystem(): która wypisuje: "System Robo v1.0"
 b) metodę niestatyczną przywitajSie(String imie): która wypisuje: "Cześć, jestem [imie]".

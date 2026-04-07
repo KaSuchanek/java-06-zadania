@@ -1,4 +1,4 @@
-package zadania;
+package robot;
 
 public class RobotNew {
     public static void main(String[] args) {

@@ -16,4 +16,4 @@ Tworzenie nowych gałęzi, wysyłanie prośby `code rewiev`, lączenie kodu
 
 ## Struktura projektu
 
-- `src/zadania` - klasy z rozwiązaniami poszczególnych zadań.
+- `src/robot` - klasy z rozwiązaniami poszczególnych zadań.
