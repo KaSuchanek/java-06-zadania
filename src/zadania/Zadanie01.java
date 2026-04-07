@@ -1,4 +1,4 @@
-package java.zadania;
+package zadania;
 
 public class Zadanie01 {
     public static void main(String[] args) {
