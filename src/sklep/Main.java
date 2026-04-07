@@ -1,7 +1,7 @@
 package sklep;
 /*Stwórz trzy klasy: Product, Store i Main.
-Product przechowuje nazwę i cenę produktu, ma metody ustawDaneProduktu() do ustawienia ceny i nazwy oraz pokazProdukt() do wyświetlania informacji.
-Store przechowuje produkty, ma metody ustawNazweSklepu(), sprzedajProdukt().
+a) product przechowuje nazwę i cenę produktu, ma metody ustawDaneProduktu() do ustawienia ceny i nazwy oraz
+pokazProdukt() do wyświetlania informacji o produkcie, b) Store przechowuje produkty, ma metody ustawNazweSklepu(), sprzedajProdukt().
 Main tworzy obiekty Product i Store, ustawia dane produktu i nazwy sklepu i wyświetla informacje.*/
 
 public class Main {
